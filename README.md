@@ -7,8 +7,12 @@
 
 ##
   Project2 > Color change on click event
+  ![image](https://user-images.githubusercontent.com/65271369/169476562-95f230cc-7a11-4798-a964-4bad3453bcf8.png)
+
 ##
  project3 > Sorting list
+ ![image](https://user-images.githubusercontent.com/65271369/169476713-78323cc2-6acb-4dea-ad46-d14962270268.png)
+
 ##
  project4 > Shuffle Game
  
