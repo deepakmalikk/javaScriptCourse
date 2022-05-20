@@ -7,6 +7,7 @@
 
 ##
   Project2 > Color change on click event
+  
   ![image](https://user-images.githubusercontent.com/65271369/169476562-95f230cc-7a11-4798-a964-4bad3453bcf8.png)
 
 ##
