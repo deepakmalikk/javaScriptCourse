@@ -1,9 +1,12 @@
 # javaScriptCourse
  This repo contains project created during javaScript course
  
+##
+  Project1 > Follower Counter
+##
+  Project2 > Color change on click event
+##
+ project3 > Sorting list
+##
+ project4 > Shuffle Game
  
- 
- #1 Project1 > Follower Counter
- #2 Project2 > Color change on click event
- #3 project3 > Sorting list
- #4 project4 > Shuffle Game
